@@ -26,4 +26,4 @@ Wireshark를 사용하여 네트워크 패킷을 캡처하고, 간단한 TCP/UDP
 1. **TCP/UDP 서버 및 클라이언트 코드를 작성하고, 클라이언트가 서버에 요청을 보내는 과정을 진행했습니다.**
 2. **요청된 결과를 Wireshark로 캡처하여 패킷을 분석했습니다.**
 
-- **[Notion 링크]([https://www.notion.so/your-page-link](https://checker-roast-bee.notion.site/07-04-f76250392b104f6980688e4c41d6fcbb?pvs=4))**
+- [Notion 링크](https://checker-roast-bee.notion.site/07-04-f76250392b104f6980688e4c41d6fcbb?pvs=4)
